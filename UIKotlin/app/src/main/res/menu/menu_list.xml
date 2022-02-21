@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/icon_feedback"
+        android:title="@string/feedback"/>
+    <item android:id="@+id/icon_quiz"
+        android:icon="@drawable/icon_quiz"
+        android:title="@string/quiz"/>
+    <item android:id="@+id/rate_us"
+        android:icon="@drawable/icon_star_rate"
+        android:title="@string/rate_us"/>
+    <item android:id="@+id/send"
+        android:icon="@drawable/icon_share"
+        android:title="@string/send"/>
+    <item android:id="@+id/about_us"
+        android:icon="@drawable/icon_about_us"
+        android:title="@string/about_us"/>
+    <item android:id="@+id/more_apps"
+        android:icon="@drawable/icon_more_apps"
+        android:title="@string/more_apps"/>
+    <item android:id="@+id/privacy_policy"
+        android:icon="@drawable/icon_privacy_policy"
+        android:title="@string/privacy_policy"/>
+</menu>

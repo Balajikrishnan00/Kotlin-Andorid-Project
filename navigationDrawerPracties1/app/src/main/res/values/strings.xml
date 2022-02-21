@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">navigationDrawerPracties1</string>
+    <string name="hai">Open</string>
+    <string name="bye">Close</string>
+</resources>
